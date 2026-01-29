@@ -1,10 +1,8 @@
-package com.projects.studentsapp.ui
+package com.projects.studentsapp
 
-import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.projects.studentsapp.databinding.ActivityStudentsListBinding
 import com.projects.studentsapp.model.Model
 
 class StudentsListActivity : AppCompatActivity() {
