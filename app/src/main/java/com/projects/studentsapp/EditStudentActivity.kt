@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import com.projects.studentsapp.students.R
+import com.projects.studentsapp.R
 import com.projects.studentsapp.databinding.ActivityEditStudentBinding
 import com.projects.studentsapp.model.Student
 import com.projects.studentsapp.model.Model

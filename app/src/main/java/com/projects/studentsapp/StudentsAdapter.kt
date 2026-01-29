@@ -3,6 +3,8 @@ package com.projects.studentsapp
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.projects.studentsapp.R
+import com.projects.studentsapp.databinding.ItemStudentBinding
 import com.projects.studentsapp.model.Student
 
 class StudentsAdapter(
